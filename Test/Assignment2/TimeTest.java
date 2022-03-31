@@ -1,4 +1,4 @@
-package Assignment.Assignment2;
+package Assignment2;
 
 public class TimeTest {
     public static void main(String args[]) {

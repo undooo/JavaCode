@@ -1,4 +1,4 @@
-package Assignment.Assignment2;
+package Assignment2;
 
 public class Car {
     //声明变量
