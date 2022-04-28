@@ -19,8 +19,8 @@ public class BasicFrame {
         
         //例如可以创建一个people类的对象
         People Liu=new People();
-        People2 Li=new People2();
-        Li.speak("是的");
+
+
         Liu.speak("ok");
     }
 }
